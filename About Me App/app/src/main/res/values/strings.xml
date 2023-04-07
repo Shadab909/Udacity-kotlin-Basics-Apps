@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Madison</string>
+    <string name="star_image">Star Image</string>
+    <string name="about_me">Madison\'s hunger for knowledge and determination to turn information into action has contributed to her most recent success at Rockwell Group. There, she led international award-winning campaigns for heavy-hitting brands such as Puma, Gucci, and Rolex.
+
+Meanwhile, she vastly improved the productivity of her department by implementing strategic project management methods and ensuring a work-life balance for her team. Madison believes mindfulness in the workplace is key to success, a tenet she lives out through her interests in yoga, meditation, gardening, and painting. </string>
+    <string name="whats_your_nick_name">Whats your nick name</string>
+    <string name="done">Done</string>
+
+</resources>
